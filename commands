@@ -1,0 +1,14 @@
+1. git log --oneline 
+ quickly view a repository’s commit history in a compact format.
+
+2.  git merge <branch_name>
+  merge changes from a specified branch into the current branch.
+
+3.  git stash
+  temporarily save changes that are not yet ready to be committed.  
+
+4.  git remote -v
+  display the URLs of remote repositories associated with the local repository.   
+
+5.  git tag <tag_name>
+  create a tag to mark a specific point in the repository’s history, often used for releases.    
